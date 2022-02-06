@@ -5,4 +5,5 @@ Hi! Thanks for downloading, Please don't share this and I do not condone modding
 
 F8 Is to open it and to go back it is Backspace
 
-Thanks for downloading and happy gaming
+
+-- UPDATE // DO NOT USE THIS IN ONLINE, IT IS OUTDATED
